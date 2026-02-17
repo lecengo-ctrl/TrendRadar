@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T00:08:08.631032+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T00:52:17.753195+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -37,8 +37,43 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
+        },
+        {
+          "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
+          "url": "https://flash.jin10.com/detail/20260218001635068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
+          "url": "https://wallstreetcn.com/livenews/3056038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "time_info": "[00时08分 ~ 00时52分]"
+        },
+        {
+          "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
+          "url": "https://wallstreetcn.com/livenews/3056036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -52,37 +87,16 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
-          "url": "https://wallstreetcn.com/livenews/3056038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
-          "url": "https://wallstreetcn.com/livenews/3056036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
           "title": "伊朗外长：伊方坚持走和平核能发展道路",
           "url": "https://wallstreetcn.com/livenews/3056031",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
         },
         {
           "title": "阿曼外交部长：“仍有大量工作要做”，伊朗和美国在下次会晤前已就“明确的下一步行动”达成共识。",
@@ -91,7 +105,91 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
+        },
+        {
+          "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
+          "url": "https://flash.jin10.com/detail/20260218000855742800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260218000727610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
+        },
+        {
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
+        },
+        {
+          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
+          "url": "https://flash.jin10.com/detail/20260217235812714800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         }
@@ -109,8 +207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -120,19 +218,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
           "url": "https://wallstreetcn.com/livenews/3056025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
@@ -141,7 +240,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
@@ -152,57 +251,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "特朗普关税引发损失，企业加大货币对冲力度",
-          "url": "https://flash.jin10.com/detail/20260217231948785800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
-          "url": "https://flash.jin10.com/detail/20260217230755682800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时08分"
         }
@@ -210,24 +259,36 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
-          "url": "https://wallstreetcn.com/livenews/3056046",
+          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
+          "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "00时52分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
+          "url": "https://wallstreetcn.com/livenews/3056046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价",
@@ -237,8 +298,36 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时52分]"
+        },
+        {
+          "title": "金价银价直线跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债的信用游戏会崩溃吗",
+          "url": "https://www.toutiao.com/trending/7607813472549604890/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -251,11 +340,12 @@
           "url": "https://wallstreetcn.com/livenews/3056044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时52分]"
         }
       ]
     }
