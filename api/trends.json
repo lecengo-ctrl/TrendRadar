@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T20:51:50.453301+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-02-18T22:14:02.087745+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[02时50分 ~ 15时53分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 22时14分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时51分]"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -222,6 +222,17 @@
           "time_info": "[17时41分 ~ 18时39分]"
         },
         {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时14分]"
+        },
+        {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
           "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
           "source": "凤凰网",
@@ -336,18 +347,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -553,7 +553,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -644,8 +644,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时16分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[12时16分 ~ 22时14分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -744,6 +744,18 @@
           "time_info": "[00时07分 ~ 03时44分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时14分]"
+        },
+        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://wallstreetcn.com/livenews/3056068",
           "source": "华尔街见闻-快讯",
@@ -804,17 +816,6 @@
           "time_info": "[00时08分 ~ 00时52分]"
         },
         {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
           "url": "https://flash.jin10.com/detail/20260218041904754800",
           "source": "金十数据",
@@ -846,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
+          "url": "https://wallstreetcn.com/livenews/3056340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
@@ -887,7 +899,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -956,12 +968,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "卫星图像显示，在美伊关系紧张之际，伊朗正在修复和加固一些设施。",
+          "url": "https://flash.jin10.com/detail/20260218212236759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -972,8 +995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时47分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[07时47分 ~ 22时14分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -997,8 +1020,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时07分 ~ 20时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时07分 ~ 22时14分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1009,8 +1032,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时44分 ~ 20时51分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 22时14分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 22时14分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -1024,16 +1059,15 @@
           "time_info": "[17时41分 ~ 18时39分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 20时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -1162,7 +1196,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1446,7 +1480,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两年期美债收益率涨约2.5个基点",
@@ -1459,6 +1493,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 09时44分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比有所回落",
+          "url": "https://wallstreetcn.com/livenews/3056330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美债的信用游戏会崩溃吗",
