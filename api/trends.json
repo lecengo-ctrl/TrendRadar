@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T15:09:39.210068+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-05-25T19:48:38.816558+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -86,7 +86,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -110,7 +110,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -341,6 +341,18 @@
           "time_info": "[01时55分 ~ 03时08分]"
         },
         {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 19时48分]"
+        },
+        {
           "title": "波兰外长：我们拒绝伊朗拥有核弹，并支持重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260525005341993800",
           "source": "金十数据",
@@ -388,6 +400,17 @@
           "time_info": "[00时02分 ~ 01时55分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
           "url": "https://flash.jin10.com/detail/20260524231628507800",
           "source": "金十数据",
@@ -419,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "伊朗媒体称伊朗央行行长前往卡塔尔访问",
+          "url": "https://wallstreetcn.com/livenews/3108849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "据Axios援引美国官员的话称，伊朗政权目前的状态进展缓慢，完成必要的审批将需要几天时间。",
@@ -460,7 +494,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -474,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗：准备向全世界保证不寻求拥核",
-          "url": "https://www.toutiao.com/trending/7643313675294244883/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
         },
         {
           "title": "据Axios援引一位美国官员的话称，伊朗最高领袖已批准协议的总体框架。",
@@ -509,6 +532,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "伊朗革命卫队海军：在过去24小时内，包括油轮、集装箱船和其他商船在内的32艘船只在获得许可后已通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260525192556996800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "据阿曼通讯社：阿曼与伊朗官员举行会议，讨论依据国际法规范霍尔木兹海峡航行自由的原则。",
           "url": "https://flash.jin10.com/detail/20260524225730943800",
           "source": "金十数据",
@@ -529,6 +563,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "美国和沙特企业联手仿制伊朗无人机",
+          "url": "https://flash.jin10.com/detail/20260525192406583800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美以袭击伊朗进入第 86 天，当前局势如何？哪些信息值得关注？",
@@ -570,7 +626,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -625,7 +681,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -652,6 +708,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://wallstreetcn.com/livenews/3108816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美军对伊朗港口封锁未见松动",
           "url": "https://flash.jin10.com/detail/20260524210801065800",
           "source": "金十数据",
@@ -666,7 +733,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -759,6 +826,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -865,7 +943,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -936,6 +1014,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "特朗普：不会签署让伊朗获得核武器的协议",
+          "url": "https://wallstreetcn.com/livenews/3108835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "特朗普：已通知代表不要急于达成协议 时间在我们这边",
           "url": "https://flash.jin10.com/detail/20260524221210008800",
           "source": "金十数据",
@@ -945,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普：与伊朗的协议要伟大且有意义 否则不会有任何协议",
+          "url": "https://wallstreetcn.com/livenews/3108827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "特朗普称美伊协议未谈妥：封锁将持续",
@@ -1008,11 +1108,12 @@
           "ranks": [
             12,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 15时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 19时48分]"
         },
         {
           "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
@@ -1021,7 +1122,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1032,7 +1133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -1061,7 +1162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1112,7 +1213,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
