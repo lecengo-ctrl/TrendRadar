@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T08:26:55.661469+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-06-03T13:59:48.321396+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -50,9 +50,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
+          "url": "https://news.ifeng.com/c/8teM8SFj90x",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "美军发射“地狱火”导弹，击中一艘伊朗相关油轮",
+          "url": "https://news.ifeng.com/c/8te0bJrzbXu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "科威特：伊朗袭击严重损毁了机场大楼。",
+          "url": "https://wallstreetcn.com/livenews/3113531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "美军机发射“地狱火”导弹，击中一艘伊朗相关油轮",
@@ -61,9 +94,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "伊朗在葬礼举行前袭击美军基地，有何意味？",
+          "url": "https://news.ifeng.com/c/8teQvIWc4Ah",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：在科威特的美国基地遭到打击之前，美国在波斯湾、霍尔木兹海峡及格什姆岛采取敌对行动。",
@@ -94,7 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -105,7 +149,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -130,7 +174,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -163,7 +207,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -185,9 +229,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 96 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2045279638348199640",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "美军证实拦截伊朗导弹和无人机 称空袭格什姆岛",
@@ -196,7 +251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -207,7 +262,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -273,9 +328,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "伊朗称袭击美军第五舰队总部",
+          "url": "https://www.toutiao.com/trending/7646223479754489897/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "【伊朗南部格什姆岛传出爆炸声】当地时间6月3日凌晨，据伊朗南部格什姆岛当地居民报告称，听到该地附近传出爆炸声。目前尚不清楚爆炸的具体性质，伊朗官方也暂未就爆炸原因发表评论。（央视）",
@@ -287,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "伊朗媒体Mehr：Qeshm Island区域听到爆炸声。",
@@ -317,7 +394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -328,7 +405,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -350,7 +427,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -372,7 +449,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -394,7 +471,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -416,7 +493,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -427,9 +504,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "欧洲央行管委、比利时央行行长Wunsch：伊朗和平协议不会动摇欧洲央行加息的理由。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3113494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗战斗机袭击了位于伊拉克库尔德斯坦地区的武装团体总部，这些武装团体得到了欧洲、以色列和美国情报机构的支持。",
@@ -438,7 +526,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -457,7 +545,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -495,27 +583,28 @@
           "time_info": "[04时02分 ~ 06时58分]"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 13时59分]"
+        },
+        {
           "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
           "url": "https://news.ifeng.com/c/8tdev8HIju4",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
-        },
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 08时26分]"
         },
         {
           "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
@@ -529,15 +618,38 @@
           "time_info": "04时02分"
         },
         {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 13时59分]"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "13时59分"
         },
         {
           "title": "巴西政府：根据巴西总统卢拉与美国总统特朗普于5月7日达成的共识，两国正在就关税问题进行谈判。",
@@ -579,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -631,18 +743,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 13时59分]"
+        },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 13时59分]"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -655,18 +781,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 08时26分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 08时26分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -702,6 +816,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "美股散户热议：该跟黄仁勋还是特朗普",
+          "url": "https://www.toutiao.com/trending/7646982770446569014/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
           "url": "https://wallstreetcn.com/livenews/3113295",
           "source": "华尔街见闻-快讯",
@@ -726,8 +851,104 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 06时58分]"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 13时59分]"
+        },
+        {
+          "title": "抄底地产、打折暴买谷歌！伯克希尔新掌门能否赢回“巴菲特溢价”？",
+          "url": "https://flash.jin10.com/detail/20260603130806156800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）：正在监测谷歌(GOOG.O)搜索中的人工智能发展，如有必要将采取进一步行动。",
+          "url": "https://flash.jin10.com/detail/20260603130727003800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）：谷歌(GOOG.O)现在必须确保在人工智能生成的搜索结果中，出版商的内容得到适当归属，并使用清晰的链接。",
+          "url": "https://flash.jin10.com/detail/20260603130555323800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）：谷歌(GOOG.O)将有九个月时间实施所有变更。",
+          "url": "https://flash.jin10.com/detail/20260603130544409800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）：在决定将谷歌(GOOG.O)指定为一般搜索服务的战略市场地位后，实施了相关的行为要求。",
+          "url": "https://flash.jin10.com/detail/20260603130518051800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）：对谷歌(GOOG.O)搜索施加新的行为要求，意味着其必须在英国数字市场竞争制度下采取具体行动。",
+          "url": "https://flash.jin10.com/detail/20260603130433557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
@@ -739,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
@@ -799,18 +1031,30 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
           "url": "https://wallstreetcn.com/articles/3773688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 13时59分]"
+        },
+        {
+          "title": "超越美债，黄金成为全球官方储备第一大资产",
+          "url": "https://news.ifeng.com/c/8teZCHEvNB0",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "13时59分"
         },
         {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
@@ -876,48 +1120,48 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 06时58分]"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 08时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国内金价跌破980元每克",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 13时59分]"
+        },
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://www.toutiao.com/trending/7646967437870747187/",
+          "source": "今日头条",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "13时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：DeepSeek据悉在首轮融资中预计筹资约70亿美元，估值最高可达590亿美元",
+          "url": "https://wallstreetcn.com/livenews/3113520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     }
