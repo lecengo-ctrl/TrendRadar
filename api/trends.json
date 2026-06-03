@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T13:59:48.321396+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-06-03T19:05:09.470302+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 06时58分]"
+        },
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "美国制裁伊朗加密货币交易平台及相关人员",
@@ -61,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -72,7 +83,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -83,7 +94,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -105,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -166,6 +177,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 08时26分]"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时05分]"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "伊朗称袭击美国第五舰队总部",
@@ -240,7 +274,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -339,7 +373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -353,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
-        },
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "伊朗媒体Mehr：Qeshm Island区域听到爆炸声。",
@@ -515,7 +538,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -529,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "伊朗官员：如有必要伊方会同美进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3113686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "录音显示美军袭击一艘伊朗相关油轮",
@@ -545,7 +579,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -596,6 +630,39 @@
           "time_info": "[00时42分 ~ 13时59分]"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
           "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
           "url": "https://news.ifeng.com/c/8tdev8HIju4",
           "source": "凤凰网",
@@ -605,6 +672,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
+        },
+        {
+          "title": "美国总统特朗普：鲁比奥和万斯将会是一对非常出色的搭档。",
+          "url": "https://flash.jin10.com/detail/20260603183550419800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普证实斥责内塔尼亚胡“疯了”",
+          "url": "https://wallstreetcn.com/livenews/3113731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：国务卿鲁比奥和副总统万斯都很优秀。",
+          "url": "https://flash.jin10.com/detail/20260603183506518800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
@@ -624,9 +724,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "特朗普：我的认知测试成绩相当好。",
+          "url": "https://wallstreetcn.com/livenews/3113728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时05分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
@@ -641,15 +774,92 @@
           "time_info": "[08时26分 ~ 13时59分]"
         },
         {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗海上封锁或持续至9月",
+          "url": "https://flash.jin10.com/detail/20260603183031201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要派遣地面部队来实现对伊朗的目标。",
+          "url": "https://flash.jin10.com/detail/20260603182928422800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普称愿与伊朗最高领袖会面",
+          "url": "https://flash.jin10.com/detail/20260603182722092800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普对以色列与黎巴嫩的冲突感到“有些不安”",
+          "url": "https://wallstreetcn.com/livenews/3113724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "分析师：特朗普的最新言论其实表明美国不会作出让步",
+          "url": "https://flash.jin10.com/detail/20260603182544869800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普：国务卿鲁比奥和副总统万斯都很优秀。 鲁比奥和万斯将会是一对非常出色的搭档。 鲁比奥和万斯关系很好。 美国联邦住房金融局（FHFA）局长Pulte非常有才华。 认为布兰奇（Todd Blanche）会出任司法部长。",
+          "url": "https://wallstreetcn.com/livenews/3113723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：与美国参议院多数党领袖图恩保持非常良好的关系。",
+          "url": "https://flash.jin10.com/detail/20260603182528722800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普：我们不需要派遣地面部队来实现对伊朗的目标。",
+          "url": "https://wallstreetcn.com/livenews/3113719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "巴西政府：根据巴西总统卢拉与美国总统特朗普于5月7日达成的共识，两国正在就关税问题进行谈判。",
@@ -683,6 +893,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普称对伊朗海上封锁或持续至9月",
+          "url": "https://wallstreetcn.com/livenews/3113717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普：与美国参议院多数党领袖图恩保持非常良好的关系。",
+          "url": "https://wallstreetcn.com/livenews/3113716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普承认他曾以愤怒的语气与内塔尼亚胡交谈。",
+          "url": "https://flash.jin10.com/detail/20260603181849562800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普称愿与伊朗最高领袖会面",
+          "url": "https://wallstreetcn.com/livenews/3113715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：（回应关于他在与内塔尼亚胡通话时是否感到愤怒的问题）对内塔尼亚胡与黎巴嫩的持续冲突感到不安。",
+          "url": "https://flash.jin10.com/detail/20260603181738934800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：与以色列总理内塔尼亚胡保持良好关系。",
+          "url": "https://flash.jin10.com/detail/20260603181626823800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普：正在与伊朗达成协议，伊朗已同意不会拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3113712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "特朗普被曝同以总理通话爆粗口",
@@ -729,6 +1016,39 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普：“有可能”在美国劳动节（9月7日）前解除对伊朗的封锁。 美国没有多少通胀问题。 与以色列总理内塔尼亚胡关系良好。 对他在黎巴嫩的行动感到有些烦躁。",
+          "url": "https://wallstreetcn.com/livenews/3113707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势正在迅速发展，将会非常好。",
+          "url": "https://flash.jin10.com/detail/20260603181328296800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普：正在与伊朗商讨达成协议。 美国股市表现良好。 伊朗已同意不会拥有核武器。 从未想过要会见任何伊朗领导人。 未来可能会与伊朗领导人会面，这取决于谈判结果。",
+          "url": "https://wallstreetcn.com/livenews/3113705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
           "url": "https://flash.jin10.com/detail/20260603052655387800",
           "source": "金十数据",
@@ -738,13 +1058,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普：正致力于与伊朗达成协议，伊朗已同意不拥核",
+          "url": "https://flash.jin10.com/detail/20260603181320937800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：未来不久，汽油价格将会下降。",
+          "url": "https://flash.jin10.com/detail/20260603181129454800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们没有多少通胀问题。",
+          "url": "https://flash.jin10.com/detail/20260603181044452800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时26分 ~ 19时05分]"
+        },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
@@ -759,18 +1124,6 @@
           "time_info": "[06时57分 ~ 13时59分]"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 13时59分]"
-        },
-        {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
           "source": "财联社热门",
@@ -781,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 08时26分]"
+        },
+        {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -805,6 +1169,17 @@
           "time_info": "[06时57分 ~ 06时58分]"
         },
         {
+          "title": "英特尔美股盘前涨超8%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "迈威尔科技美股盘后涨9.4%。",
           "url": "https://wallstreetcn.com/livenews/3113304",
           "source": "华尔街见闻-快讯",
@@ -822,7 +1197,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -885,7 +1260,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -896,7 +1271,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -907,7 +1282,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -918,7 +1293,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -929,7 +1304,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -940,7 +1315,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -948,8 +1323,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3113311",
@@ -968,7 +1354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1042,8 +1428,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时26分 ~ 19时05分]"
         },
         {
           "title": "超越美债，黄金成为全球官方储备第一大资产",
@@ -1052,7 +1438,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1142,7 +1528,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -1159,7 +1545,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
