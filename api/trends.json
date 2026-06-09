@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T12:05:05.233220+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-06-09T16:28:41.501051+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -36,22 +36,36 @@
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
         },
         {
           "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
           "url": "https://news.ifeng.com/c/8toKe0HelhI",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 16时28分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -74,18 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 12时05分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
@@ -191,6 +193,19 @@
           "time_info": "[06时22分 ~ 08时01分]"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普提名托德·布兰奇出任美司法部长",
           "url": "https://wallstreetcn.com/livenews/3116329",
           "source": "华尔街见闻-快讯",
@@ -201,18 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时06分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时05分]"
         },
         {
           "title": "特朗普提名前私人律师，任司法部长",
@@ -246,6 +249,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "特朗普称美伊和平协议相关工作进入收尾阶段",
+          "url": "https://news.ifeng.com/c/8tohseatV8c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "据报道，一名联邦法官裁定，特朗普对H-1B签证征收的10万美元费用属于未经授权的企业税，须予以撤销。",
@@ -290,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "白宫：美国总统特朗普向美国参议院提交托德·布兰奇（Todd Blanche）出任司法部长的提名。",
@@ -350,7 +386,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -370,7 +406,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -488,9 +524,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "惠誉：因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化”。",
@@ -562,7 +609,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -572,8 +619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 16时28分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -611,6 +658,29 @@
           "time_info": "[01时47分 ~ 04时06分]"
         },
         {
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
+        },
+        {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
@@ -637,17 +707,6 @@
           "time_info": "[01时47分 ~ 08时01分]"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
           "title": "美股“黑色星期五”引爆恐慌？高盛：正是难得的买入良机！",
           "url": "https://www.cls.cn/detail/2393754",
           "source": "财联社热门",
@@ -657,6 +716,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股盘前，科技股延续此前涨势，美光科技涨超4%，迈威尔科技涨超3%，苹果微跌0.23%，苹果WWDC 2026发布Siri AI但不及市场预期。Applied Digital涨超10%，公司在Delta Forge 2签署新的数据中心租赁协议。Nuvalent上涨近40%，葛兰素史克将以106亿美元收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3116650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "Applied Digital美股盘前涨超10%，此前该公司与美国超大规模云服务商签署了价值52亿美元的人工智能数据中心租赁协议。",
+          "url": "https://flash.jin10.com/detail/20260609160404117800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "高通(QCOM.O)美股盘后上涨近8%。",
@@ -723,12 +804,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美股70%熊市信号被触发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A170%25%E7%86%8A%E5%B8%82%E4%BF%A1%E5%8F%B7%E8%A2%AB%E8%A7%A6%E5%8F%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -743,33 +835,35 @@
           "time_info": "[06时22分 ~ 08时01分]"
         },
         {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
           "url": "https://www.cls.cn/detail/2394236",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -851,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -874,11 +979,12 @@
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时28分]"
         },
         {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
@@ -951,7 +1057,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -995,9 +1101,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -1052,7 +1169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1063,7 +1180,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         }
@@ -1071,7 +1188,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "30年期美债收益率涨约4个基点",
@@ -1084,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时06分 ~ 06时22分]"
+        },
+        {
+          "title": "伊以交火“点到为止”！美债却遗憾未能“止血”……",
+          "url": "https://www.cls.cn/detail/2394275",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     }
