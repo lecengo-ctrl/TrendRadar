@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T11:35:40.583241+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-06-30T15:46:12.155071+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
+        },
+        {
+          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
+          "url": "https://www.cls.cn/detail/2412193",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
         },
         {
           "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
@@ -117,18 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -150,18 +175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -177,24 +191,13 @@
           "time_info": "06时06分"
         },
         {
-          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
-          "url": "https://www.cls.cn/detail/2412193",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
           "url": "https://news.ifeng.com/c/8uN5SKblxo3",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -389,7 +392,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -407,11 +410,23 @@
           "url": "https://news.ifeng.com/c/8uN7QjuqM13",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
+          "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "伊朗副外长：伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
@@ -462,6 +477,18 @@
           "time_info": "[04时53分 ~ 06时06分]"
         },
         {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
+        },
+        {
           "title": "普京为何将俄乌谈判时间表与伊朗挂钩",
           "url": "https://www.toutiao.com/trending/7656625002212704275/",
           "source": "今日头条",
@@ -509,17 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时06分]"
-        },
-        {
-          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2412298",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。",
@@ -583,7 +599,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -635,8 +651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时46分]"
         },
         {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
@@ -644,11 +660,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时46分]"
         },
         {
           "title": "美股",
@@ -709,8 +726,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时46分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
@@ -839,22 +856,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时46分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
           "url": "https://wallstreetcn.com/articles/3775761",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时46分]"
         },
         {
           "title": "DeepSeek V4正式版要来了",
@@ -863,7 +882,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -892,8 +911,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时46分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -956,6 +975,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月30日（周二）上海金午盘价为879.06元/克，较国际金价(879.06元/克)，持平",
+          "url": "https://flash.jin10.com/detail/20260630153622653800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
