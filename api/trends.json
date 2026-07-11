@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T10:08:52.940565+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-07-11T13:35:09.154084+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -64,6 +64,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
+          "url": "https://news.ifeng.com/c/8ufKh63zFFr",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 13时35分]"
         },
         {
           "title": "卫星图像曝光：伊朗或在重建多处核设施",
@@ -320,15 +332,15 @@
           "time_info": "[05时56分 ~ 07时54分]"
         },
         {
-          "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
-          "url": "https://news.ifeng.com/c/8ufKh63zFFr",
-          "source": "凤凰网",
+          "title": "美方称1000枚导弹已瞄准伊朗",
+          "url": "https://www.toutiao.com/trending/7661107511323266566/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
@@ -353,6 +365,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "伊朗外长谴责美国财长违反谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3132302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
           "url": "https://wallstreetcn.com/livenews/3132224",
           "source": "华尔街见闻-快讯",
@@ -362,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录后果自负",
+          "url": "https://wallstreetcn.com/livenews/3132300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
@@ -428,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美官员称伊朗私下就近期袭击商船认错",
+          "url": "https://wallstreetcn.com/livenews/3132292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国驻联合国代表：与伊朗的外交渠道仍然开放。",
@@ -529,6 +574,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "美方要求伊朗公开承诺保持霍尔木兹海峡航行通畅",
+          "url": "https://wallstreetcn.com/livenews/3132289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "美国驻联合国代表：伊朗领导人面临历史性机会，决定权在他们手中。",
           "url": "https://flash.jin10.com/detail/20260710231439602800",
           "source": "金十数据",
@@ -551,6 +607,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：以色列对南黎巴嫩的袭击造成1人死亡，3人受伤。",
+          "url": "https://flash.jin10.com/detail/20260711102821152800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "据CNN：卫星图像显示，伊朗可能正在重建部分核设施。",
           "url": "https://flash.jin10.com/detail/20260711024000715800",
           "source": "金十数据",
@@ -560,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
+          "url": "https://flash.jin10.com/detail/20260711101517977800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
@@ -609,7 +687,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -617,11 +695,12 @@
           "source": "凤凰网",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 10时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 13时35分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -632,8 +711,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 10时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 13时35分]"
+        },
+        {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://wallstreetcn.com/livenews/3132310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
@@ -661,6 +751,50 @@
           "time_info": "[02时20分 ~ 07时54分]"
         },
         {
+          "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
+          "url": "https://flash.jin10.com/detail/20260711120611427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "美国总统特朗普：我为美国争取到了一份“好得多”的协议，也因此，那座横跨底特律和加拿大安大略省温莎市的全新壮观的“戈迪·豪国际大桥”将按原计划于7月27日开通。",
+          "url": "https://flash.jin10.com/detail/20260711120605603800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
+          "url": "https://flash.jin10.com/detail/20260711120244661800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/livenews/3132301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
           "url": "https://flash.jin10.com/detail/20260711011248280800",
           "source": "金十数据",
@@ -678,7 +812,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -692,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特朗普再次发出警告：若伊朗企图暗杀我 数千枚导弹将向伊朗发射",
+          "url": "https://flash.jin10.com/detail/20260711112133723800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普：（谈及如果被伊朗成功行刺）我希望你们会想念我。",
@@ -711,7 +856,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -733,7 +878,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -744,7 +889,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -774,8 +919,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 13时35分]"
+        },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
@@ -789,17 +948,31 @@
           "time_info": "[00时21分 ~ 07时54分]"
         },
         {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
+            10,
+            9,
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 10时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 13时35分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 13时35分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -815,30 +988,17 @@
           "time_info": "[00时21分 ~ 05时56分]"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8,
-            7,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 10时08分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 10时08分]"
+          "appearance_count": 5,
+          "time_info": "[06时55分 ~ 13时35分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -863,6 +1023,19 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 13时35分]"
+        },
+        {
           "title": "存储芯片巨头SK海力士登陆美股",
           "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -872,31 +1045,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 06时55分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 10时08分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时08分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
@@ -932,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
+          "url": "https://flash.jin10.com/detail/20260711094525096800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
@@ -952,17 +1111,6 @@
           "time_info": "[00时21分 ~ 05时56分]"
         },
         {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
           "url": "https://wallstreetcn.com/livenews/3132268",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1121,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时55分 ~ 10时08分]"
+        },
+        {
+          "title": "据悉OpenAI安全系统负责人将离职",
+          "url": "https://flash.jin10.com/detail/20260711093038446800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 13时35分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -1018,9 +1178,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30年期美债拍卖海外机构需求强劲，外资大举接盘背后藏着关键信号",
+          "url": "https://flash.jin10.com/detail/20260711100226871800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
