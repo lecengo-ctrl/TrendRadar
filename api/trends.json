@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T10:39:52.358890+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-07-20T14:12:01.119455+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -36,11 +36,23 @@
           "source": "贴吧",
           "ranks": [
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 14时12分]"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时12分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -54,6 +66,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 06时45分]"
+        },
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -73,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -89,24 +123,13 @@
           "time_info": "06时45分"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "伊朗称击落一架MQ-9无人机",
           "url": "https://wallstreetcn.com/livenews/3136494",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -117,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -399,6 +422,17 @@
           "time_info": "[00时51分 ~ 02时59分]"
         },
         {
+          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
+          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
           "url": "https://flash.jin10.com/detail/20260720045743667800",
           "source": "金十数据",
@@ -471,6 +505,28 @@
           "time_info": "[05时45分 ~ 06时45分]"
         },
         {
+          "title": "伊朗称打死数十名美军人员",
+          "url": "https://www.toutiao.com/trending/7664426833449848347/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "美军称继续执行针对伊朗海上封锁任务",
+          "url": "https://www.toutiao.com/trending/7663549304636669993/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
           "title": "美国打伊朗越打越尴尬",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -488,7 +544,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -499,9 +555,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：在巴林多个地区，尤其是首都麦纳麦，传出连续爆炸的声音，居民们报告称感受到强烈的震动。",
+          "url": "https://flash.jin10.com/detail/20260720133654675800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
@@ -521,7 +588,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -532,7 +599,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -543,7 +610,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -554,7 +621,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -565,7 +632,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -579,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗海军防空系统在南部拦截并摧毁了一架敌方的“卢卡斯”无人机。",
+          "url": "https://flash.jin10.com/detail/20260720133000496800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗媒体：霍尔木兹海峡通航量已降至零",
@@ -620,7 +698,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -628,7 +706,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -665,6 +743,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时12分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -795,15 +885,15 @@
           "time_info": "[04时06分 ~ 06时45分]"
         },
         {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
@@ -869,17 +959,18 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时12分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -895,6 +986,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 06时45分]"
+        },
+        {
+          "title": "OpenAI称Kimi开源是减速主义",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     },
@@ -909,26 +1039,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "10时39分"
         }
       ]
     }
