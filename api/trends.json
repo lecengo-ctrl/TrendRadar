@@ -1,12 +1,456 @@
 {
-  "generated_at": "2026-07-24T16:15:12.863536+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-07-24T18:57:58.297929+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 38,
+      "titles": [
+        {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2063259853338972886",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 10时04分]"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 18时57分]"
+        },
+        {
+          "title": "伊朗袭击约旦和巴林境内美军基地",
+          "url": "https://flash.jin10.com/detail/20260724132809850800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "伊朗称对驻科威特美军基地发动新一轮无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3139315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会国家安全委员会主席转述革命卫队海军导弹部队指挥官称，伊朗拥有数倍于应对美国所需的导弹和无人机储备。",
+          "url": "https://flash.jin10.com/detail/20260724030140297800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，科威特的美国基地响起警报，并传出多次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724095428376800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "俄罗斯与伊朗两国外长举行会晤 讨论海湾地区局势",
+          "url": "https://flash.jin10.com/detail/20260724184036588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊朗称拦截一枚美军“战斧”导弹，伊南部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3139107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "世界银行：摩洛哥2026年通胀将因伊朗战争上升至2.4%。",
+          "url": "https://flash.jin10.com/detail/20260724183846825800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
+          "url": "https://wallstreetcn.com/livenews/3139062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 06时01分]"
+        },
+        {
+          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
+          "url": "https://flash.jin10.com/detail/20260724041220156800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 06时01分]"
+        },
+        {
+          "title": "据报伊朗防空系统击落一飞行器",
+          "url": "https://wallstreetcn.com/livenews/3139236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
+          "url": "https://flash.jin10.com/detail/20260724003816659800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗格什姆岛和拉尔克岛附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724003559949800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3139021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "伊朗格什姆岛传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3138990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
+          "url": "https://wallstreetcn.com/livenews/3139427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊朗外长：扣押他国资产“极具煽动性”",
+          "url": "https://wallstreetcn.com/livenews/3139224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击科威特的AL-ADIRI美军基地。",
+          "url": "https://wallstreetcn.com/livenews/3139426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
+          "url": "https://flash.jin10.com/detail/20260724023243593800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
+          "url": "https://wallstreetcn.com/livenews/3138986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗军方表示，已打击美国军方在约旦阿兹拉克基地和巴林谢赫·伊萨空军基地的设施。",
+          "url": "https://flash.jin10.com/detail/20260724125917503800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "据伊朗媒体23日报道，伊朗南部格什姆岛当天发生爆炸。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3138985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗卫生部：6月27日以来美国袭击已致55人死亡",
+          "url": "https://wallstreetcn.com/livenews/3139087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗称伊斯法罕省遭美国袭击",
+          "url": "https://wallstreetcn.com/livenews/3139214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：科威特发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260724000347028800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗军方：已对美国军方在科威特的设施发起了另一波无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260724153331810800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
+          "url": "https://wallstreetcn.com/livenews/3139085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗外交部发言人：海湾合作委员会成员国应就参与对伊朗军事行动作出回应。",
+          "url": "https://flash.jin10.com/detail/20260724035435850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+          "url": "https://wallstreetcn.com/livenews/3139038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "伊拉克否认替美向伊朗转交停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国驻科威特阿里·萨利姆空军基地遭到导弹和无人机袭击，科威特防空系统正在拦截来自伊朗的无人机和导弹。",
+          "url": "https://flash.jin10.com/detail/20260724035032089800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美国将用伊朗资金“赔偿”遭袭船只",
+          "url": "https://www.toutiao.com/trending/7665110482323308585/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊朗拒绝由美国提出的、伊拉克领导人转交的停火协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3139131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗格什姆岛传出爆炸声 。",
+          "url": "https://flash.jin10.com/detail/20260723234710353800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3138971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 32,
       "titles": [
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时05分 ~ 18时57分]"
+        },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
@@ -34,21 +478,6 @@
           "time_info": "[01时13分 ~ 16时15分]"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时05分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
           "url": "https://wallstreetcn.com/articles/3777811",
           "source": "华尔街见闻",
@@ -56,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 18时57分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -80,6 +509,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时57分]"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -105,6 +547,18 @@
           "time_info": "[06时01分 ~ 07时03分]"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -116,35 +570,12 @@
           "time_info": "[01时13分 ~ 03时05分]"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
           "url": "https://www.cls.cn/detail/2435732",
           "source": "财联社热门",
           "ranks": [
             11,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时15分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -168,7 +599,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -245,7 +676,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -355,7 +786,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -373,370 +804,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2063259853338972886",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时04分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时15分]"
-        },
-        {
-          "title": "伊朗袭击约旦和巴林境内美军基地",
-          "url": "https://flash.jin10.com/detail/20260724132809850800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "伊朗称对驻科威特美军基地发动新一轮无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3139315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会国家安全委员会主席转述革命卫队海军导弹部队指挥官称，伊朗拥有数倍于应对美国所需的导弹和无人机储备。",
-          "url": "https://flash.jin10.com/detail/20260724030140297800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，科威特的美国基地响起警报，并传出多次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260724095428376800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "伊朗称拦截一枚美军“战斧”导弹，伊南部传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3139107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
-          "url": "https://wallstreetcn.com/livenews/3139062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时01分]"
-        },
-        {
-          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
-          "url": "https://flash.jin10.com/detail/20260724041220156800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时01分]"
-        },
-        {
-          "title": "据报伊朗防空系统击落一飞行器",
-          "url": "https://wallstreetcn.com/livenews/3139236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
-          "url": "https://flash.jin10.com/detail/20260724003816659800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗格什姆岛和拉尔克岛附近传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260724003559949800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3139021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.cls.cn/detail/2435700",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "伊朗格什姆岛传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3138990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗外长：扣押他国资产“极具煽动性”",
-          "url": "https://wallstreetcn.com/livenews/3139224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
-          "url": "https://flash.jin10.com/detail/20260724023243593800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
-          "url": "https://wallstreetcn.com/livenews/3138986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗军方表示，已打击美国军方在约旦阿兹拉克基地和巴林谢赫·伊萨空军基地的设施。",
-          "url": "https://flash.jin10.com/detail/20260724125917503800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "据伊朗媒体23日报道，伊朗南部格什姆岛当天发生爆炸。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3138985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗卫生部：6月27日以来美国袭击已致55人死亡",
-          "url": "https://wallstreetcn.com/livenews/3139087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "伊朗称伊斯法罕省遭美国袭击",
-          "url": "https://wallstreetcn.com/livenews/3139214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：科威特发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260724000347028800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊朗军方：已对美国军方在科威特的设施发起了另一波无人机攻击。",
-          "url": "https://flash.jin10.com/detail/20260724153331810800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
-          "url": "https://wallstreetcn.com/livenews/3139085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "伊朗外交部发言人：海湾合作委员会成员国应就参与对伊朗军事行动作出回应。",
-          "url": "https://flash.jin10.com/detail/20260724035435850800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
-          "url": "https://wallstreetcn.com/livenews/3139038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：美国驻科威特阿里·萨利姆空军基地遭到导弹和无人机袭击，科威特防空系统正在拦截来自伊朗的无人机和导弹。",
-          "url": "https://flash.jin10.com/detail/20260724035032089800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "伊朗拒绝由美国提出的、伊拉克领导人转交的停火协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3139131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗格什姆岛传出爆炸声 。",
-          "url": "https://flash.jin10.com/detail/20260723234710353800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3138971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -747,8 +816,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时01分 ~ 16时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时01分 ~ 18时57分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -793,8 +862,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 18时57分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -900,6 +969,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260724040548081800",
           "source": "金十数据",
@@ -980,18 +1060,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时57分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1015,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -1150,11 +1242,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时57分]"
         },
         {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
@@ -1229,8 +1322,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时57分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）上海金午盘价为881.09元/克，较国际金价(881.97元/克)，低0.88元/克",
@@ -1239,7 +1332,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
