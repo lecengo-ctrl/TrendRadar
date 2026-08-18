@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T07:56:29.116004+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-18T08:53:13.420012+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -15,8 +15,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "大V：特朗普“金蝉脱壳”是政治失算",
+          "url": "https://www.toutiao.com/trending/7675011910084857394/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "民调亮起红灯！特朗普支持率跌至第二任期最低点",
@@ -24,17 +47,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,22 +68,57 @@
           "url": "https://wallstreetcn.com/articles/3779635",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "以退为进？特朗普想用这招要挟韩国掏钱",
+          "url": "https://v.ifeng.com/c/8vfkc7n8wJm",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "民调显示特朗普支持率创第二任期内新低",
           "url": "https://wallstreetcn.com/livenews/3150715",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 08时53分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -153,70 +200,32 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 7,
       "titles": [
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
+            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
         },
         {
-          "title": "30年期美债收益率升至近20年高位！海外买家同步减持",
-          "url": "https://flash.jin10.com/detail/20260818072945690800",
-          "source": "金十数据",
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "source": "凤凰网",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
-        {
-          "title": "6月日本大幅减持美债，策略师：料不会再减持",
-          "url": "https://flash.jin10.com/detail/20260818070552627800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
           "url": "https://news.ifeng.com/c/8vfLF9nDBak",
@@ -229,15 +238,26 @@
           "time_info": "07时56分"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
+          "title": "为向伊朗革命卫队传话，美国找了谁？",
+          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
+          "source": "凤凰网",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "伊朗对美将从防御转向全面进攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%B0%86%E4%BB%8E%E9%98%B2%E5%BE%A1%E8%BD%AC%E5%90%91%E5%85%A8%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -264,13 +284,46 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "30年期美债收益率升至近20年高位！海外买家同步减持",
+          "url": "https://flash.jin10.com/detail/20260818072945690800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
@@ -279,6 +332,23 @@
           "time_info": "07时56分"
         },
         {
+          "title": "6月日本大幅减持美债，策略师：料不会再减持",
+          "url": "https://flash.jin10.com/detail/20260818070552627800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2456385",
           "source": "财联社热门",
@@ -286,8 +356,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
         },
         {
           "title": "美股收盘：3大利好推动AI板块逆势走强",
@@ -297,8 +379,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
         }
       ]
     },
@@ -311,11 +393,12 @@
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 08时53分]"
         }
       ]
     },
@@ -333,6 +416,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     }
